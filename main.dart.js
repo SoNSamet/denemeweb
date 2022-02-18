@@ -38725,7 +38725,7 @@ p=t.z
 o=A.aM(["eposta",j,"parola",A.ar6(B.x0.ct(B.I.gkF().ct(k)).a)],p,p)
 p=t.N
 s=2
-return A.Z(A.aGE($.auD(),B.av.Mm(o,null),A.aM(["Content-Type","application/json"],p,p)),$async$rF)
+return A.Z(A.aGE($.auD(),B.av.Mm(o,null),A.aM(["Content-Type","application/json","Access-Control_Allow_Origin","*"],p,p)),$async$rF)
 case 2:n=b
 m=B.av.M0(0,A.aFQ(J.aw(A.aDK(n.e).c.a,"charset")).dd(0,n.x),null)
 k=J.au(m)
